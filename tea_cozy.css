@@ -8,6 +8,7 @@ header {
     position: fixed;
     max-height: 69px;
     border-bottom: 1px solid seashell;
+    display: inline-block;
 }
 header p {
     display: inline-block;
