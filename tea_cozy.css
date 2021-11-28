@@ -3,14 +3,19 @@ body {
 }
 header {
     font-family: Helvetica;
+    font-size: 22px;
     color: seashell;
     opacity: 0.9;
     position: fixed;
     max-height: 69px;
     border-bottom: 1px solid seashell;
-    display: inline-block;
+    width: 100%;
+}
+header img {
+    height: 50px;
 }
 header p {
     display: inline-block;
     text-decoration: underline;
+    text-align: right;
 }
