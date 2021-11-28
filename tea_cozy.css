@@ -6,4 +6,10 @@ header {
     color: seashell;
     opacity: 0.9;
     position: fixed;
+    max-height: 69px;
+    border-bottom: 1px solid seashell;
+}
+header p {
+    display: inline-block;
+    text-decoration: underline;
 }
