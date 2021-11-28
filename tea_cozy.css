@@ -1,21 +1,64 @@
 body {
-    background-color: black
-}
-header {
+    background-color: black;
     font-family: Helvetica;
     font-size: 22px;
     color: seashell;
     opacity: 0.9;
+}
+header {
     position: fixed;
     max-height: 69px;
     border-bottom: 1px solid seashell;
     width: 100%;
 }
 header img {
-    height: 50px;
+    max-height: 50px;
 }
 header p {
     display: inline-block;
     text-decoration: underline;
-    text-align: right;
+}
+#mission {
+    height: 700px;
+    margin-top: 69px;
+    text-align: center;
+}   
+.front {
+    z-index: 1;
+}
+#locations {
+    max-width: 1000px;
+}
+.flavors {
+    max-width: 300px;
+    max-height: 200px:
+}
+#teas {
+    padding: 10px;
+    text-align: center;
+}
+#locations {
+}
+.teacup {
+    max-height: 500px;
+    width: 100%;
+}
+.oakdale {
+    background-color: black;
+}
+.downtown {
+    background-color: black;
+}
+.east {
+    background-color: black;
+}
+footer {
+    text-align: center;
+}
+.info {
+    
+}
+footer p {
+    text-align: left;
+    padding-top: 20px;
 }
