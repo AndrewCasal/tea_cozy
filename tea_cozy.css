@@ -7,7 +7,7 @@ body {
 }
 header {
     position: fixed;
-    max-height: 69px;
+    height: 69px;
     border-bottom: 1px solid seashell;
     width: 100%;
     display: flex;
@@ -18,9 +18,10 @@ header {
 #logo {
     max-height: 50px;
 }
-.menu {
+.nav_menu {
     text-decoration: underline;
     margin-right: 25px;
+    color: seashell;
 }
 #mission {
     height: 700px;
