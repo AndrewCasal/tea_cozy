@@ -36,9 +36,6 @@ header {
     z-index: 1;
     background-color: black;
 }
-#locations {
-    max-width: 1000px;
-}
 .flavors {
     max-width: 300px;
     max-height: 200px:
@@ -50,6 +47,9 @@ header {
 .teacup {
     max-height: 500px;
     width: 100%;
+}
+#locations {
+    max-height: 500px;
 }
 .oakdale {
     background-color: black;
