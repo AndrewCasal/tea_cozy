@@ -19,6 +19,7 @@ header {
 }
 header p {
     text-decoration: underline;
+    margin-right: 25px;
 }
 #mission {
     height: 700px;
