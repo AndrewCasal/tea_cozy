@@ -90,15 +90,25 @@ header {
 #block_locations {
     display: flex;
     justify-content: space-around;
+    padding: 40px;
 }
 #downtown {
     background-color: black;
+    width: 300px;
+    height: 300px;
+    align-items: center;
 }
 #east {
     background-color: black;
+    width: 300px;
+    height: 300px;
+    align-items: center;
 }
 #oakdale {
     background-color: black;
+    width: 300px;
+    height: 300px;
+    align-items: center;
 }
 footer {
     text-align: center;
