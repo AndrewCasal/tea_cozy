@@ -87,12 +87,15 @@ header {
     margin: auto;
 }
 #location_title {
-    align-items: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
 }
 #block_locations {
     display: flex;
     justify-content: space-around;
-    padding: 40px;
+    padding-top: 15px;
 }
 #downtown {
     background-color: black;
