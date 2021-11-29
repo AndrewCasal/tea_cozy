@@ -28,7 +28,10 @@ header {
     padding-top: 69px;
     text-align: center;
     display: inline-flex;
-}   
+} 
+#background {
+    
+}  
 .statement {
     z-index: 1;
     background-color: black;
