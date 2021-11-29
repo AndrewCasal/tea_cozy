@@ -10,7 +10,7 @@ header {
     max-height: 69px;
     border-bottom: 1px solid seashell;
     width: 100%;
-    display: inline-flex;
+    display: flex;
     justify-content: flex-end;
     align-items: center;
     background-color: black;
