@@ -23,11 +23,12 @@ header p {
 }
 #mission {
     height: 700px;
-    margin-top: 69px;
+    padding-top: 69px;
     text-align: center;
 }   
-.front {
+.statement {
     z-index: 1;
+    background-color: black;
 }
 #locations {
     max-width: 1000px;
