@@ -77,17 +77,27 @@ header {
     width: 100%;
 }
 #locations {
-    max-height: 500px;
+    height: 500px;
+    max-width: 1200px;
     background-image: url("img-locations-background.jpg");
+    background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
 }
-.oakdale {
+#location_title {
+    align-items: center;
+}
+#block_locations {
+    display: flex;
+    justify-content: space-around;
+}
+#downtown {
     background-color: black;
 }
-.downtown {
+#east {
     background-color: black;
 }
-.east {
+#oakdale {
     background-color: black;
 }
 footer {
