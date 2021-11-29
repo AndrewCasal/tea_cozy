@@ -10,12 +10,14 @@ header {
     max-height: 69px;
     border-bottom: 1px solid seashell;
     width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    
 }
 header img {
     max-height: 50px;
 }
 header p {
-    display: inline-block;
     text-decoration: underline;
 }
 #mission {
