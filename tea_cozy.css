@@ -28,7 +28,7 @@ header {
     width: 1200px;
     padding-top: 69px;
     text-align: center;
-    display: inline-flex;
+    background-image: url("img-mission-background.webp")
 } 
 #background {
     
