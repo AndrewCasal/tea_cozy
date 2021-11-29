@@ -24,8 +24,10 @@ header {
 }
 #mission {
     height: 700px;
+    width: 1200px;
     padding-top: 69px;
     text-align: center;
+    display: inline-flex;
 }   
 .statement {
     z-index: 1;
