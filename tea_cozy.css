@@ -42,6 +42,7 @@ header {
 #teas {
     padding-top: 25px;
     max-width: 1000px;
+    margin: auto;
 }
 #ttitle {
     display: block;
@@ -83,6 +84,7 @@ header {
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
+    margin: auto;
 }
 #location_title {
     align-items: center;
