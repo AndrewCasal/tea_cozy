@@ -78,6 +78,8 @@ header {
 }
 #locations {
     max-height: 500px;
+    background-image: url("img-locations-background.jpg");
+    background-position: center;
 }
 .oakdale {
     background-color: black;
