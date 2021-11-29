@@ -39,12 +39,24 @@ header {
     width: 100%;
 }
 #teas {
-    padding: 25px;
+    padding-top: 25px;
+    max-width: 1000px;
+}
+#ttitle {
+    display: block;
+    justify-content: center;
     text-align: center;
-    width: 1000px;
 }
 #tflavors {
+    text-align: center;
+}
+#top_flavors {
     display: flex;
+    justify-content: space-between;
+}
+#bottom_flavors {
+    display: flex;
+    justify-content: space-around;
 }
 .fimage {
     max-width: 300px;
