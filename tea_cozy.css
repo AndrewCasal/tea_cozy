@@ -25,17 +25,16 @@ header {
 }
 #mission {
     height: 700px;
-    width: 1200px;
     padding-top: 69px;
     text-align: center;
-    background-image: url("img-mission-background.webp")
+    background-image: url("img-mission-background.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 } 
-#background {
-    
-}  
-.statement {
-    z-index: 1;
+#statement {
     background-color: black;
+    z-index: 5;
 }
 .flavors {
     max-width: 300px;
